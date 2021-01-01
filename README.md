@@ -10,3 +10,15 @@ and typically used in shell scripts and batch files to output status text to the
 
 * Example :
 echo "Hello world"
+
+## Adding different commands 
+
+You can use predefined commands in your os . 
+
+**For example :**
+In dscpeg.sh , I'm using [FFMPEG](https://ffmpeg.org/) commands to :
+
+ - Blur an image.
+ - Resize a second image.
+ - Overlay the second image on the first image.
+ 
