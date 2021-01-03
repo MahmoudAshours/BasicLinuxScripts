@@ -3,6 +3,9 @@
 This repository contains Basic linux bash script.
 In this readme , I'll document each function written in each file in the repository.
 
+Good resource for learning shell script :
+- [Shell script website](https://www.shellscript.sh/)
+
 ## Hello.sh
 
 ### Echo
