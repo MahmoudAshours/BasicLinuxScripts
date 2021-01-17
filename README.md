@@ -49,3 +49,15 @@ Frequent Topics :
 The tr command in UNIX is a command line utility for translating or deleting characters. It supports a range of transformations including uppercase to lowercase, squeezing repeating characters, deleting specific characters and basic find and replace. It can be used with UNIX pipes to support more complex translation. tr stands for translate.
 - [tr command in Unix/Linux with examples](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/#:~:text=The%20tr%20command%20in%20UNIX,to%20support%20more%20complex%20translation.)
 - [tr - Transform, Replace and Remove specific characters from strings | #10 Practical Bash](https://www.youtube.com/watch?v=nyoZ8VeMEq0)
+
+
+## Numeric Data in Shell 
+Bash itself is unable to deal with floating point math. The best bet is to use bc.
+
+- [bash + how to calculate percentage from number](https://unix.stackexchange.com/questions/421083/bash-how-to-calculate-percentage-from-number)
+- [How to do integer & float calculations, in bash or other languages/frameworks?](https://unix.stackexchange.com/questions/40786/how-to-do-integer-float-calculations-in-bash-or-other-languages-frameworks)
+- [How can I do division with variables in a Linux shell?](https://stackoverflow.com/questions/18093871/how-can-i-do-division-with-variables-in-a-linux-shell)
+
+## Incrementing :
+- [How to Increment and Decrement Variable in Bash (Counter)](https://linuxize.com/post/bash-increment-decrement-variable/)
+
